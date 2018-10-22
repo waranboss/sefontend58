@@ -1,0 +1,50 @@
+body{
+	background-color: white;
+}
+
+body{
+	margin: 0;
+	height: 100%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #a1a1a1;
+}
+
+li {
+    float: left;
+}
+
+li a {
+
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 13px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: white;
+}
+
+.news{
+	border-radius: 7px;
+	margin-top: 0;
+	margin-left: 5px;
+	padding-left: 10px;
+	background-color: grey;
+	height: 100%;
+}
+
+.news h1{
+	margin-bottom: 0;
+	margin-top: 0;
+	}
+.news p{
+	margin: 0;
+	}
